@@ -1,4 +1,4 @@
-custombucket = "aqzwsx"
+custombucket = "jhfk"
 table = "i1"
 databasehost = "database-1.cvtu3cucuoxn.us-east-1.rds.amazonaws.com"
 duser = "admin"
